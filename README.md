@@ -22,4 +22,4 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-Pensando Sempre como a técnologia pode envolver diversas vidas e melhorar o mundo.
+Pensando sempre como a técnologia pode envolver diversas vidas e melhorar o mundo e me divertir no processo de aprendizado das inovações de forma intuitiva.
