@@ -1,5 +1,5 @@
-### Oi eu sou o Guilherme Jordão 👋✌.
-
+### Oi eu sou o Guilherme Jordão 👋✌. 
+<img align="center" alt="html5" src="https://c.tenor.com/F2q8AHyHa4oAAAAM/goku-songoku.gif" />
 <hr/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeJordao&show_icons=true&theme=highcontrast&count_private=true)
