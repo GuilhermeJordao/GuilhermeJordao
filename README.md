@@ -1,8 +1,6 @@
 ### Oi eu sou o Guilherme Jordão 👋✌. 
 <hr/>
-### Técnologias que tenho interesse:
-<hr/>
-<li><b>Estudando:</b></li>
+<li><b>Técnologias que tenho interesse:</b></li>
 <br/>
 <div style="display: inline_block">
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
